@@ -7,8 +7,9 @@
 - [x] Css File 
 - [x] JS File 
 - [x] Array file (JS) - Archive data
+- [x] cloud information
 - [x] Site Art
-- [ ] QR code adress
+- [x] QR code adress
 - [x] Deploy ( Vercel )
 - [ ] Documentation
    
