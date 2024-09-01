@@ -14,6 +14,7 @@
    
 <img src="https://github.com/user-attachments/assets/c3f98fdf-0be3-47b3-8831-e1e41d4cb209" align="center" alt="Qr Code Vercel" height="200">
 
+
  - Last test was done in My machine (0 bugs)
     * User Mode: Enter the teacher's details first and make it available to students.
 
