@@ -14,3 +14,4 @@
 
   - Last test was done in My machine (0 bugs)
     * User Mode: Enter the teacher's details first and make it available to students.
+![QR Code](img/Vercel QR Code.png)
