@@ -1,7 +1,8 @@
 body {
+    /*Luquian: adicionando imagem de background */
     background-image: url("img/background.png");
     background-position: right top;
-    font-family: Arial, sans-serif;
+    font-family: JetBrains Mono;
     background-color: #1e1e2d;
     color: #f5f5f5;
     display: flex;
@@ -12,7 +13,7 @@ body {
 }
 
 .container {
-    background-color: #2b2b3b;
+    background-color: #7d5ae9;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
@@ -42,8 +43,9 @@ input {
 }
 
 button {
-    background-color: #5a67d8;
-    color: #fff;
+    font-family: JetBrains Mono;
+    background-color: #c1ff72;
+    color: #7d5ae9;
     padding: 10px 15px;
     border: none;
     border-radius: 5px;
